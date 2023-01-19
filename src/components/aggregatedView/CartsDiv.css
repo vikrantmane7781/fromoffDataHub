@@ -1,0 +1,14 @@
+.ChartAgMain{
+    margin-top: 2%;
+    background-color: white!important;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.ChartAgMain__SecondSection{
+    display: flex;
+    flex-direction: column;
+}
+.second__second{
+    display: flex;
+    flex-direction: row;
+}
